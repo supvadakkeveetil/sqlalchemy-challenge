@@ -11,8 +11,9 @@ Exploratory Precipitation Analysis
 ![image](https://github.com/supvadakkeveetil/sqlalchemy-challenge/assets/144635564/bd68bec1-d888-4746-9e27-cd81d95cde02)
 
 Summary Statistics:
-	precipitation
- -------------------------
+	
+precipitation
+-------------------------
  
 count	2021.000000
  
