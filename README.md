@@ -41,13 +41,21 @@ max	6.700000
 - List the stations in the descending order
 
 [('USC00519281', 2772),
+
  ('USC00519397', 2724),
+ 
  ('USC00513117', 2709), 
+ 
  ('USC00519523', 2669), 
+ 
  ('USC00516128', 2612), 
+ 
  ('USC00514830', 2202),
+ 
  ('USC00511918', 1979),
+ 
  ('USC00517948', 1372),
+ 
  ('USC00518838', 511)]
  
  - Station "USC00519281" has the greatest number of observations (2772)
